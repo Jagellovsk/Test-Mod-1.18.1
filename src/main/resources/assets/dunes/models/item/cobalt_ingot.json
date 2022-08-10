@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "dunes:item/steel_nugget"
+    "layer0": "dunes:item/cobalt_ingot"
   }
 }

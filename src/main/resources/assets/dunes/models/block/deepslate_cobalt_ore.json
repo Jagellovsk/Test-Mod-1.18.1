@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "dunes:block/steel_block"
+    "all": "dunes:block/deepslate_cobalt_ore"
   }
 }

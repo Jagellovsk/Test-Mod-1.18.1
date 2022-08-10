@@ -13,9 +13,11 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, DunesMod.MOD_ID);
 
     //Steel
-    public static final RegistryObject<Item> STEEL_INGOT = ITEMS.register("steel_ingot",
+    public static final RegistryObject<Item> COBALT_INGOT = ITEMS.register("cobalt_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
-    public static final RegistryObject<Item> STEEL_NUGGET = ITEMS.register("steel_nugget",
+    public static final RegistryObject<Item> COBALT_NUGGET = ITEMS.register("cobalt_nugget",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> RAW_COBALT = ITEMS.register("raw_cobalt",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
 
 

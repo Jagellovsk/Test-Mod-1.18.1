@@ -1,5 +1,9 @@
 {
-  "item.dunes.steel_ingot": "Stahlbarren",
-  "item.dunes.steel_nugget": "Stahlklumpen",
-  "block.dunes.steel_block": "Stahlblock"
+  "item.dunes.cobalt_ingot": "Cobaltbarren",
+  "item.dunes.cobalt_nugget": "Cobaltklumpen",
+  "block.dunes.cobalt_block": "Cobaltblock",
+  "block.dunes.cobalt_ore": "Cobalterz",
+  "block.dunes.deepslate_cobalt_ore": "Tiefenschiefer Cobalterz",
+  "block.dunes.raw_cobalt_block": "Rohcobaltblock",
+  "item.dunes.raw_cobalt": "Rohcobalt"
 }
