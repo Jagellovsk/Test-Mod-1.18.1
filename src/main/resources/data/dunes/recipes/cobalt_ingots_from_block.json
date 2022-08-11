@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dunes:cobalt_block"
+    }
+  ],
+  "result": {
+    "item": "dunes:cobalt_ingot",
+    "count": 9
+  }
+}

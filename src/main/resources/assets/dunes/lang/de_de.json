@@ -1,9 +1,11 @@
 {
-  "item.dunes.cobalt_ingot": "Cobaltbarren",
-  "item.dunes.cobalt_nugget": "Cobaltklumpen",
-  "block.dunes.cobalt_block": "Cobaltblock",
-  "block.dunes.cobalt_ore": "Cobalterz",
-  "block.dunes.deepslate_cobalt_ore": "Tiefenschiefer Cobalterz",
-  "block.dunes.raw_cobalt_block": "Rohcobaltblock",
-  "item.dunes.raw_cobalt": "Rohcobalt"
+  "item.dunes.cobalt_ingot": "Kobaltbarren",
+  "item.dunes.cobalt_nugget": "Kobaltklumpen",
+  "block.dunes.cobalt_block": "Kobaltblock",
+  "block.dunes.cobalt_ore": "Kobalterz",
+  "block.dunes.deepslate_cobalt_ore": "Tiefenschiefer-Kobalterz",
+  "block.dunes.raw_cobalt_block": "Rohkobaltblock",
+  "item.dunes.raw_cobalt": "Rohkobalt",
+
+  "itemGroup.dunesmaterials": "Dunes: Materialien"
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dunes:cobalt_nugget"
+    }
+  },
+  "result": {
+    "item": "dunes:cobalt_ingot"
+  }
+}
