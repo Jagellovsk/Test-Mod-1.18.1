@@ -1,8 +1,8 @@
 package net.cookie.dunes.item;
 
 import net.cookie.dunes.DunesMod;
+import net.cookie.dunes.item.custom.CoalSliverItem;
 import net.cookie.dunes.item.custom.DowsingRodItem;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -25,6 +25,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> DOWSING_ROD = ITEMS.register("dowsing_rod",
             () -> new DowsingRodItem(new Item.Properties().tab(ModCreativeModeTab.DUNES_MATERIALS).durability(16)));
+
+    public static final RegistryObject<Item> COAL_SLIVER = ITEMS.register("coal_sliver",
+            () -> new CoalSliverItem(new Item.Properties().tab(ModCreativeModeTab.DUNES_MATERIALS)));
 
 
 
