@@ -1,6 +1,7 @@
 package net.cookie.dunes.block;
 
 import net.cookie.dunes.DunesMod;
+import net.cookie.dunes.block.custom.SpeedyBlock;
 import net.cookie.dunes.item.ModCreativeModeTab;
 import net.cookie.dunes.item.ModItems;
 import net.minecraft.world.item.BlockItem;
@@ -34,6 +35,10 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> RAW_COBALT_BLOCK = registerBlock("raw_cobalt_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.SAND)
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.DUNES_MATERIALS);
+
+    public static final RegistryObject<Block> SPEEDY_BLOCK = registerBlock("speedy_block",
+            () -> new SpeedyBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.DUNES_MATERIALS);
 
 

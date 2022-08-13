@@ -6,6 +6,9 @@
   "block.dunes.deepslate_cobalt_ore": "Deepslate cobalt ore",
   "block.dunes.raw_cobalt_block": "Raw cobalt block",
   "item.dunes.raw_cobalt": "Raw cobalt",
+  "item.dunes.dowsing_rod": "Dowsing rod",
 
-  "itemGroup.dunesmaterials": "Dunes: Materials"
+  "itemGroup.dunesmaterials": "Dunes: Materials",
+
+  "item.dunes.dowsing_rod.no_valuables": "No Valuables Found!!"
 }
