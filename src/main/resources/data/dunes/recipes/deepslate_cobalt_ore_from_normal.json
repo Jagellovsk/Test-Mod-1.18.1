@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "r#r",
+    "#t#",
+    "r#r"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "t": {
+      "item": "dunes:cobalt_ore"
+    },
+    "r": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "dunes:deepslate_cobalt_ore"
+  }
+}

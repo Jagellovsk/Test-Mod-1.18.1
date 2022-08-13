@@ -33,7 +33,7 @@ public class ModBlocks {
                     .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.DUNES_MATERIALS);
 
     public static final RegistryObject<Block> RAW_COBALT_BLOCK = registerBlock("raw_cobalt_block",
-            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+            () -> new Block(BlockBehaviour.Properties.of(Material.SAND)
                     .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.DUNES_MATERIALS);
 
 
